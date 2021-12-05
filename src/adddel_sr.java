@@ -308,7 +308,7 @@ public class adddel_sr extends javax.swing.JFrame {
 
     private void button1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_button1ActionPerformed
         String s1=textField1.getText();
-        String s6= null;
+        String s6= "";
         
                     try
                     {
